@@ -4,6 +4,9 @@ Magic.
 
 Credits:
 Dragontoothjones, as main Contributor
+
 Fruitjuic3, as secondary Contributor
+
 Curseforge, for the mods
+
 and the Mod developers, for making the mods used in this pack
